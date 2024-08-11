@@ -1,0 +1,9 @@
+
+textarea#output {
+    width: 100%; /* Full width of its container, adjust as needed */
+    height: 400px; /* Increase height as needed */
+    resize: both; /* Allow the user to resize the textarea if desired */
+  }
+
+
+
